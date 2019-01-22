@@ -1,0 +1,7 @@
+<?php
+
+$mensagem = "Topper";
+
+echo "Eu sou" .$mensagem;
+
+?>
